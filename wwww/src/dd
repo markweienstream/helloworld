@@ -2,7 +2,8 @@ curl -H "Content-Type: application/json" -X POST 'http://localhost:8080/server_s
 ffggg
 or curl -H "Content-Type: application/json" -X POST 'http://localhost:8080/server_side_api/backchannelAuthenticationAsync?msisdn=%2B16475195032'  --connect-timeout 2000000 --max-time 2000000
 
-eclipse2
+
+eclipse12
 
 test 2
 
